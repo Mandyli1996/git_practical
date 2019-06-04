@@ -11,3 +11,9 @@ Day 1
 
 
 Day 2
+要随时掌握工作区的状态，使用git status命令。
+
+如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
+
+
+Day 3
